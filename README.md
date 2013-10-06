@@ -1,17 +1,14 @@
-CleanPress
+pfista.io
 ==========
-CleanPress is an elegant, clean & white minimal and responsive theme for [Octopress](http://octopress.org). It's a fork from the OctoPress Slash Theme with substantial changes with work still to do.
-
-Check out the theme in action [here](http://carmo.org.uk).
-
+pfista.io is a theme for octopress, forked from
+[macjasp](https://github.com/macjasp/cleanpress)
 
 Install
 -------
     $ cd octopress
-    $ git clone git://github.com/macjasp/cleanpress.git .themes/cleanpress
-    $ rake install['cleanpress']
+    $ git clone git://github.com/pfista/pfista.io.git .themes/pfista.io
+    $ rake install['pfista.io']
     $ rake generate
-
 
 Font
 ---------------------

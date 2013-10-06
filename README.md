@@ -3,14 +3,14 @@ pfista.io
 pfista.io is a theme for octopress, forked from
 [macjasp](https://github.com/macjasp/cleanpress)
 
-<! --
+<!--
 Install
 -------
     $ cd octopress
     $ git clone git://github.com/pfista/pfista.io.git .themes/pfista.io
     $ rake install['pfista.io']
     $ rake generate
-->>
+-->
 
 Font
 ---------------------
